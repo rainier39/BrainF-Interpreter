@@ -1,1 +1,4 @@
 # BrainF-Interpreter
+A simple interpreter for the programming language [BrainF](https://en.wikipedia.org/wiki/Brainfuck) that I wrote in about an hour in C. I tested it with a few basic example programs written in BrainF and it seemed to work as intended. There is no protection against exceeding the upper limits of the interpreter's data buffer which is 30,000 bytes in size. The interpreter may or may not be compliant with the language's official standards. I have no intention of doing any further work on the program, or fixing any issues that it might contain. It was written solely as a personal educational exercise, to better understand interpreters and programming languages in general.
+
+Compiled successfully with gcc (Debian 12.2.0-14) 12.2.0. Likely works on a variety of other platforms, I haven't tested that and don't guarentee it.
