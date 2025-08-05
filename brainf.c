@@ -1,4 +1,7 @@
-// Brainf interpreter, fully functional implementation, written in approximately 1 hour on 4/6/2024.
+/****************************************************************************************************
+* Brainf interpreter, fully functional implementation, written in approximately 1 hour on 4/6/2024. *
+*                          https://github.com/rainier39/BrainF-Interpreter                          *
+*****************************************************************************************************/
 
 #include <stdio.h>
 
